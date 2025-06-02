@@ -1,0 +1,2 @@
+# Airline performance dashboard
+Developed this interactive Power BI dashboard to deliver clear, actionable insights into Avanti Airways' 2024 travel class performance. The dashboard enables stakeholders to explore key KPIs—including revenue trends, loss drivers, journey cancellations, and route profitability—across destinations and ticket classes. Designed for decision-makers, it supports strategic planning by identifying cost-heavy routes, underperforming segments, and seasonal anomalies, all backed by dynamic visuals and robust DAX calculations.
